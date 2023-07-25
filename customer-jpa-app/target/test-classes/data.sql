@@ -1,1 +1,0 @@
-insert into customer_data (id, customer_name, dob, email, type) values(101,'ansonalosious','1998-10-03','anson@gmail.com','GENERAL');
